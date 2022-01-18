@@ -1,0 +1,12 @@
+{
+  "dependencies": {
+    "@nestjs/sequelize": "^8.0.0",
+    "pg": "^8.7.1",
+    "pg-hstore": "^2.3.4",
+    "sequelize": "^6.13.0",
+    "sequelize-typescript": "^2.1.2"
+  },
+  "devDependencies": {
+    "@types/sequelize": "^4.28.11"
+  }
+}
